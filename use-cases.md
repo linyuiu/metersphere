@@ -23,3 +23,4 @@
 - [社区分享｜致远互联基于MeterSphere构建敏捷测试平台与DevOps体系](https://blog.fit2cloud.com/?p=5069)
 - [社区分享丨蓝卓数字科技的MeterSphere使用分享](https://blog.fit2cloud.com/?p=146c107e-87f2-4aff-8601-751ccb92d3c7)
 - [社区分享｜云智天下的自动化测试落地与演进](https://blog.fit2cloud.com/?p=4949)
+- [案例分享｜360借助MeterSphere提升自动化测试水平](https://blog.fit2cloud.com/?p=2801)
